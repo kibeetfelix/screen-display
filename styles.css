@@ -31,3 +31,9 @@ body {
     background-color: yellow;
     margin: 2px;
 }
+
+.box3 {
+    border: solid 1px black;
+    background-color: yellow;
+    margin: 2px;
+}
