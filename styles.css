@@ -18,3 +18,10 @@ body {
     margin-top: 10px;
 
 }
+
+.box1 {
+    border: solid 1px black;
+    background-color: yellow;
+    margin: 2px;
+
+}
