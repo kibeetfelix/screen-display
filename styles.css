@@ -25,3 +25,9 @@ body {
     margin: 2px;
 
 }
+
+.box2 {
+    border: solid 1px black;
+    background-color: yellow;
+    margin: 2px;
+}
